@@ -1,0 +1,450 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C81AAAB51AE5F4660003A6CF /* 20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C81AAAB41AE5F4660003A6CF /* 20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg */; };
+		C81AAAB71AE5F6D50003A6CF /* Website Psychedelic Sunset.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C81AAAB61AE5F6D50003A6CF /* Website Psychedelic Sunset.jpg */; };
+		C85A5F021AE08DF000BA4E42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85A5F011AE08DF000BA4E42 /* AppDelegate.swift */; };
+		C85A5F041AE08DF000BA4E42 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85A5F031AE08DF000BA4E42 /* ViewController.swift */; };
+		C85A5F071AE08DF000BA4E42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C85A5F051AE08DF000BA4E42 /* Main.storyboard */; };
+		C85A5F091AE08DF000BA4E42 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C85A5F081AE08DF000BA4E42 /* Images.xcassets */; };
+		C85A5F0C1AE08DF000BA4E42 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C85A5F0A1AE08DF000BA4E42 /* LaunchScreen.xib */; };
+		C85A5F181AE08DF000BA4E42 /* Nature_PhotosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85A5F171AE08DF000BA4E42 /* Nature_PhotosTests.swift */; };
+		C85A5F231AE09A8700BA4E42 /* green_nature_dual_monitor-other.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C85A5F221AE09A8700BA4E42 /* green_nature_dual_monitor-other.jpg */; };
+		C8C7CECF1AE7050800DF6EA3 /* mountain1_2625884k.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C8C7CECE1AE7050800DF6EA3 /* mountain1_2625884k.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C85A5F121AE08DF000BA4E42 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C85A5EF41AE08DF000BA4E42 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C85A5EFB1AE08DF000BA4E42;
+			remoteInfo = "Nature Photos";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C81AAAB41AE5F4660003A6CF /* 20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg; sourceTree = "<group>"; };
+		C81AAAB61AE5F6D50003A6CF /* Website Psychedelic Sunset.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Website Psychedelic Sunset.jpg"; sourceTree = "<group>"; };
+		C85A5EFC1AE08DF000BA4E42 /* Nature Photos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nature Photos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C85A5F001AE08DF000BA4E42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C85A5F011AE08DF000BA4E42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C85A5F031AE08DF000BA4E42 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C85A5F061AE08DF000BA4E42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C85A5F081AE08DF000BA4E42 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		C85A5F0B1AE08DF000BA4E42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		C85A5F111AE08DF000BA4E42 /* Nature PhotosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nature PhotosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C85A5F161AE08DF000BA4E42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C85A5F171AE08DF000BA4E42 /* Nature_PhotosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nature_PhotosTests.swift; sourceTree = "<group>"; };
+		C85A5F221AE09A8700BA4E42 /* green_nature_dual_monitor-other.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "green_nature_dual_monitor-other.jpg"; sourceTree = "<group>"; };
+		C8C7CECE1AE7050800DF6EA3 /* mountain1_2625884k.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mountain1_2625884k.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C85A5EF91AE08DF000BA4E42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C85A5F0E1AE08DF000BA4E42 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C85A5EF31AE08DF000BA4E42 = {
+			isa = PBXGroup;
+			children = (
+				C85A5EFE1AE08DF000BA4E42 /* Nature Photos */,
+				C85A5F141AE08DF000BA4E42 /* Nature PhotosTests */,
+				C85A5EFD1AE08DF000BA4E42 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C85A5EFD1AE08DF000BA4E42 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C85A5EFC1AE08DF000BA4E42 /* Nature Photos.app */,
+				C85A5F111AE08DF000BA4E42 /* Nature PhotosTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C85A5EFE1AE08DF000BA4E42 /* Nature Photos */ = {
+			isa = PBXGroup;
+			children = (
+				C85A5F211AE099A500BA4E42 /* Photos */,
+				C85A5F011AE08DF000BA4E42 /* AppDelegate.swift */,
+				C85A5F031AE08DF000BA4E42 /* ViewController.swift */,
+				C85A5F051AE08DF000BA4E42 /* Main.storyboard */,
+				C85A5F081AE08DF000BA4E42 /* Images.xcassets */,
+				C85A5F0A1AE08DF000BA4E42 /* LaunchScreen.xib */,
+				C85A5EFF1AE08DF000BA4E42 /* Supporting Files */,
+			);
+			path = "Nature Photos";
+			sourceTree = "<group>";
+		};
+		C85A5EFF1AE08DF000BA4E42 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C85A5F001AE08DF000BA4E42 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C85A5F141AE08DF000BA4E42 /* Nature PhotosTests */ = {
+			isa = PBXGroup;
+			children = (
+				C85A5F171AE08DF000BA4E42 /* Nature_PhotosTests.swift */,
+				C85A5F151AE08DF000BA4E42 /* Supporting Files */,
+			);
+			path = "Nature PhotosTests";
+			sourceTree = "<group>";
+		};
+		C85A5F151AE08DF000BA4E42 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C85A5F161AE08DF000BA4E42 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C85A5F211AE099A500BA4E42 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				C8C7CECE1AE7050800DF6EA3 /* mountain1_2625884k.jpg */,
+				C81AAAB61AE5F6D50003A6CF /* Website Psychedelic Sunset.jpg */,
+				C81AAAB41AE5F4660003A6CF /* 20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg */,
+				C85A5F221AE09A8700BA4E42 /* green_nature_dual_monitor-other.jpg */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C85A5EFB1AE08DF000BA4E42 /* Nature Photos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C85A5F1B1AE08DF000BA4E42 /* Build configuration list for PBXNativeTarget "Nature Photos" */;
+			buildPhases = (
+				C85A5EF81AE08DF000BA4E42 /* Sources */,
+				C85A5EF91AE08DF000BA4E42 /* Frameworks */,
+				C85A5EFA1AE08DF000BA4E42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Nature Photos";
+			productName = "Nature Photos";
+			productReference = C85A5EFC1AE08DF000BA4E42 /* Nature Photos.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C85A5F101AE08DF000BA4E42 /* Nature PhotosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C85A5F1E1AE08DF000BA4E42 /* Build configuration list for PBXNativeTarget "Nature PhotosTests" */;
+			buildPhases = (
+				C85A5F0D1AE08DF000BA4E42 /* Sources */,
+				C85A5F0E1AE08DF000BA4E42 /* Frameworks */,
+				C85A5F0F1AE08DF000BA4E42 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C85A5F131AE08DF000BA4E42 /* PBXTargetDependency */,
+			);
+			name = "Nature PhotosTests";
+			productName = "Nature PhotosTests";
+			productReference = C85A5F111AE08DF000BA4E42 /* Nature PhotosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C85A5EF41AE08DF000BA4E42 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Jamie Zimmerman";
+				TargetAttributes = {
+					C85A5EFB1AE08DF000BA4E42 = {
+						CreatedOnToolsVersion = 6.3;
+					};
+					C85A5F101AE08DF000BA4E42 = {
+						CreatedOnToolsVersion = 6.3;
+						TestTargetID = C85A5EFB1AE08DF000BA4E42;
+					};
+				};
+			};
+			buildConfigurationList = C85A5EF71AE08DF000BA4E42 /* Build configuration list for PBXProject "Nature Photos" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C85A5EF31AE08DF000BA4E42;
+			productRefGroup = C85A5EFD1AE08DF000BA4E42 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C85A5EFB1AE08DF000BA4E42 /* Nature Photos */,
+				C85A5F101AE08DF000BA4E42 /* Nature PhotosTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C85A5EFA1AE08DF000BA4E42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8C7CECF1AE7050800DF6EA3 /* mountain1_2625884k.jpg in Resources */,
+				C85A5F231AE09A8700BA4E42 /* green_nature_dual_monitor-other.jpg in Resources */,
+				C81AAAB51AE5F4660003A6CF /* 20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg in Resources */,
+				C85A5F071AE08DF000BA4E42 /* Main.storyboard in Resources */,
+				C81AAAB71AE5F6D50003A6CF /* Website Psychedelic Sunset.jpg in Resources */,
+				C85A5F0C1AE08DF000BA4E42 /* LaunchScreen.xib in Resources */,
+				C85A5F091AE08DF000BA4E42 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C85A5F0F1AE08DF000BA4E42 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C85A5EF81AE08DF000BA4E42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C85A5F041AE08DF000BA4E42 /* ViewController.swift in Sources */,
+				C85A5F021AE08DF000BA4E42 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C85A5F0D1AE08DF000BA4E42 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C85A5F181AE08DF000BA4E42 /* Nature_PhotosTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C85A5F131AE08DF000BA4E42 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C85A5EFB1AE08DF000BA4E42 /* Nature Photos */;
+			targetProxy = C85A5F121AE08DF000BA4E42 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C85A5F051AE08DF000BA4E42 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C85A5F061AE08DF000BA4E42 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C85A5F0A1AE08DF000BA4E42 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C85A5F0B1AE08DF000BA4E42 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C85A5F191AE08DF000BA4E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C85A5F1A1AE08DF000BA4E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C85A5F1C1AE08DF000BA4E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Nature Photos/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C85A5F1D1AE08DF000BA4E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Nature Photos/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C85A5F1F1AE08DF000BA4E42 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Nature PhotosTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nature Photos.app/Nature Photos";
+			};
+			name = Debug;
+		};
+		C85A5F201AE08DF000BA4E42 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Nature PhotosTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nature Photos.app/Nature Photos";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C85A5EF71AE08DF000BA4E42 /* Build configuration list for PBXProject "Nature Photos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C85A5F191AE08DF000BA4E42 /* Debug */,
+				C85A5F1A1AE08DF000BA4E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C85A5F1B1AE08DF000BA4E42 /* Build configuration list for PBXNativeTarget "Nature Photos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C85A5F1C1AE08DF000BA4E42 /* Debug */,
+				C85A5F1D1AE08DF000BA4E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C85A5F1E1AE08DF000BA4E42 /* Build configuration list for PBXNativeTarget "Nature PhotosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C85A5F1F1AE08DF000BA4E42 /* Debug */,
+				C85A5F201AE08DF000BA4E42 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C85A5EF41AE08DF000BA4E42 /* Project object */;
+}
